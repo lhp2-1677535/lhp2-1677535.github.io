@@ -1,0 +1,48 @@
+#title{
+	text-align: center;
+}
+
+#picture{
+	text-align: center; 
+}
+
+#one{
+	border: dotted 8px black;
+	font-family: "Arial";
+}
+
+#two{
+  border-radius: 25px;
+  border: 8px solid #73AD21;
+  font-family: "Calibri";
+  padding: 20px; 
+  width: 750px;
+  height: 100px; 
+}
+
+
+#picture1{
+	background-image: url(catbeanie.jpg);
+	background-size: 50px 50px;
+	background-repeat: no-repeat;
+	height: 50px;
+	width: 50px;
+	font-size: 8pt;
+}
+
+#picture12{
+	position: absolute;
+	top: 10px;
+	left: 15px;
+}
+
+#picture2{
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#picture3{
+	float: right;
+}
